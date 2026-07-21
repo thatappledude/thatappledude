@@ -6,4 +6,6 @@
 <hr />
   <p align="center">
 <p align="center">
-feel free to interact with me anytime!
+feel free to interact with me anytime! 
+  
+![](https://komarev.com/ghpvc/?username=thatappledude&color=fa0000&label=KILL.COUNTER)
