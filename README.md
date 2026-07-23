@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=thatappledude&color=fa0000&label=KILL.COUNTER)
 <table align="center">
-<td width="550">
+<td width="540">
     
-<img width="550" height="358" alt="persona5-goro-akechi" src="https://github.com/user-attachments/assets/d1ca81bc-943d-469b-a59f-218c16ea3e31" />
+<img width="540" height="358" alt="persona5-goro-akechi" src="https://github.com/user-attachments/assets/d1ca81bc-943d-469b-a59f-218c16ea3e31" />
 
 </td>
 
